@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Software Developer @ PicPay
+
 <!--
 **kaiostricker/kaiostricker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
