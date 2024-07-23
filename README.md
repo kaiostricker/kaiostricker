@@ -2,8 +2,7 @@
 
 Software Developer @PicPay
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kaiostricker&row=2S&theme=gruvbox&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=kaiostricker&row=2S&rank=A,AA,AAA,S,SS,SSS,SECRET&theme=gruvbox&no-frame=true)
 
 <!--
 **kaiostricker/kaiostricker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
