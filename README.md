@@ -2,7 +2,7 @@
 
 Software Developer @PicPay
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kaiostricker&row=2&rank=A,AA,AAA,S&theme=gruvbox&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kaiostricker&row=2S&theme=gruvbox&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
